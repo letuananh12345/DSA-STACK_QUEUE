@@ -9,7 +9,7 @@ public class Main {
         smama.disPlay();
         System.out.println("sap xep theo ten");
         /// ap dung comparable : elemnt Compaable
-        Collections.sort(smama.student);
+        Collections.sort(smama.student); // comparable : truyền đối số lấy từ list student. so sanh với đối tượng hiện hành trong lớp student(this.getname)
         smama.disPlay();
     }
 }
