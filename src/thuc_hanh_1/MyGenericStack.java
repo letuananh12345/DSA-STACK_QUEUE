@@ -57,6 +57,3 @@ public class MyGenericStack <T>{
     }
 
 }
-//git remote add origin https://github.com/letuananh12345/DSA-STACK_QUEUE.git
-//git branch -M main
-//git push -u origin main
